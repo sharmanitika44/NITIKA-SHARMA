@@ -1,5 +1,3 @@
-%second paper example(hybrid schme)%
-%Example 3
 format long
 N=32;
 M=32;
@@ -201,7 +199,6 @@ K=D+G+J;
 end
 
    surfc(t,x,u);
-%title('surface plot of solution');
 ylabel(' x');
 xlabel(' t');
 zlabel(' solution (u)');
